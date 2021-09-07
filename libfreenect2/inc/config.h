@@ -36,7 +36,7 @@
 #define LIBFREENECT2_PACK( __Declaration__ ) __Declaration__ __attribute__((__packed__))
 #endif
 
-#include <libfreenect2/export.h>
+#include "export.h"
 #define LIBFREENECT2_API LIBFREENECT2_EXPORT
 
 #define LIBFREENECT2_WITH_OPENGL_SUPPORT

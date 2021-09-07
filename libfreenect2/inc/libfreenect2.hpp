@@ -29,11 +29,11 @@
 #ifndef LIBFREENECT2_HPP_
 #define LIBFREENECT2_HPP_
 
-#include <libfreenect2/config.h>
-#include <libfreenect2/frame_listener.hpp>
-#include <libfreenect2/packet_pipeline.h>
-#include <libfreenect2/color_settings.h>
-#include <libfreenect2/led_settings.h>
+#include "config.h"
+#include "frame_listener.hpp"
+#include "packet_pipeline.h"
+#include "color_settings.h"
+#include "led_settings.h"
 #include <string>
 #include <vector>
 

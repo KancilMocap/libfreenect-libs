@@ -30,9 +30,9 @@
 #define REGISTRATION_H_
 
 #include <string>
-#include <libfreenect2/config.h>
-#include <libfreenect2/libfreenect2.hpp>
-#include <libfreenect2/frame_listener.hpp>
+#include "libfreenect2/config.h"
+#include "libfreenect2/libfreenect2.hpp"
+#include "libfreenect2/frame_listener.hpp"
 
 namespace libfreenect2
 {
