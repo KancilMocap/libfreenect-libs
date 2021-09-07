@@ -17,6 +17,4 @@ For libfreenect2, the libraries are built in the following configuration:
 --   streamer_recorder    disabled
 ```
 
-In addition, both libraries are also built using the Python3 wrapper (`-DBUILD_PYTHON3=ON`).
-
 To have audio support, you would still need to install the required firmware based on the requirements at https://github.com/OpenKinect/libfreenect or https://github.com/OpenKinect/libfreenect2.
